@@ -1,0 +1,4 @@
+D:\projects\Ds_drive\Ds_drive\bin\Ds_drive.dll
+D:\projects\Ds_drive\Ds_drive\bin\Ds_drive.pdb
+D:\projects\Ds_drive\Ds_drive\obj\Debug\Ds_drive.dll
+D:\projects\Ds_drive\Ds_drive\obj\Debug\Ds_drive.pdb
